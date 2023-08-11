@@ -1,8 +1,6 @@
 <h1> Temperature Converter Website </h1>
 
-It is a website of Nike Online Store that creating a captivating and seamless
-online shopping experience for Nike enthusiasts, bringing the iconic brand
-to the digital with style and convenience.
+It is a website of Temperature Converter that Converts temperature (in celsius to fahrenheit & vice versa) to other units.
 
 <h2> Technologies: </h2>
 
